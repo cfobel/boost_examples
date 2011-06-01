@@ -1,0 +1,66 @@
+[submodule "assign"]
+	path = assign
+	url = https://github.com/cfobel/boost_assign.git
+[submodule "bind"]
+	path = bind
+	url = https://github.com/cfobel/boost_bind.git
+[submodule "filesystem"]
+	path = filesystem
+	url = https://github.com/cfobel/boost_filesystem.git
+[submodule "foreach"]
+	path = foreach
+	url = https://github.com/cfobel/boost_foreach.git
+[submodule "format"]
+	path = format
+	url = https://github.com/cfobel/boost_format.git
+[submodule "graph"]
+	path = graph
+	url = https://github.com/cfobel/boost_graph.git
+[submodule "pointer_container"]
+	path = pointer_container
+	url = https://github.com/cfobel/boost_pointer_container.git
+[submodule "program_options"]
+	path = program_options
+	url = https://github.com/cfobel/boost_program_options.git
+[submodule "python"]
+	path = python
+	url = https://github.com/cfobel/boost_python.git
+[submodule "random"]
+	path = random
+	url = https://github.com/cfobel/boost_random.git
+[submodule "range"]
+	path = range
+	url = https://github.com/cfobel/boost_range.git
+[submodule "regex_split"]
+	path = regex_split
+	url = https://github.com/cfobel/boost_regex_split.git
+[submodule "serialization"]
+	path = serialization
+	url = https://github.com/cfobel/boost_serialization.git
+[submodule "shared_ptr"]
+	path = shared_ptr
+	url = https://github.com/cfobel/boost_shared_ptr.git
+[submodule "shuffle"]
+	path = shuffle
+	url = https://github.com/cfobel/boost_shuffle.git
+[submodule "string_algo"]
+	path = string_algo
+	url = https://github.com/cfobel/boost_string_algo.git
+[submodule "string_tokenizer"]
+	path = string_tokenizer
+	url = https://github.com/cfobel/boost_string_tokenizer.git
+[submodule "thread"]
+	path = thread
+	url = https://github.com/cfobel/boost_thread.git
+[submodule "ublas"]
+	path = ublas
+	url = https://github.com/cfobel/boost_ublas.git
+[submodule "unordered"]
+	path = unordered
+	url = https://github.com/cfobel/boost_unordered.git
+[submodule "variant"]
+	path = variant
+	url = https://github.com/cfobel/boost_variant.git
+[submodule "xrange"]
+	path = xrange
+	url = https://github.com/cfobel/boost_xrange.git
