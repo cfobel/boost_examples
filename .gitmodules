@@ -64,3 +64,6 @@
 [submodule "xrange"]
 	path = xrange
 	url = https://github.com/cfobel/boost_xrange.git
+[submodule "boost_signals2"]
+	path = boost_signals2
+	url = https://github.com/cfobel/boost_signals2.git
