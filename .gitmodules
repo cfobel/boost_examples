@@ -67,3 +67,6 @@
 [submodule "signals2"]
 	path = signals2
 	url = https://github.com/cfobel/boost_signals2.git
+[submodule "any"]
+	path = any
+	url = https://github.com/cfobel/boost_any.git
